@@ -3,12 +3,12 @@
 ## About Me 
 I enjoy turning ideas into real applications and exploring how AI can solve real-world problems.
 Most of my projects focus on machine learning, backend systems, and modern web development.
-🔭 Currently working on personal and academic projects
-🌱 Learning:
+- 🔭 Currently working on personal and academic projects
+- 🌱 Learning:
 Machine Learning & Deep Learning
 Backend Development
 Data Analysis & Visualization
-⚡ Interested in AI, Automation, and Modern Web Technologies
+- ⚡ Interested in AI, Automation, and Modern Web Technologies
 
 ## My Skills
 #### Programming Languages
