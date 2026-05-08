@@ -41,9 +41,29 @@ Seeking opportunities to contribute to impactful projects in Artificial Intellig
 
 ## Connect With Me
 Click the Icon
-![https://www.instagram.com/theonlyonebinn?igsh=MXM3Mm1qdTF1cW1vdQ==](https://skillicons.dev/icons?i=instagram&theme=light)
+<p align="left">
 
+<!-- Instagram -->
+<a href="https://instagram.com/theonlyonebinn" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="43" />
+</a>
 
+<!-- Gmail -->
+<a href="mailto:bintangfebru7@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="43" />
+</a>
+
+<!-- LinkedIn -->
+<a href="https://linkedin.com/in/bintang febru" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="43" />
+</a>
+
+<!-- GitHub -->
+<a href="https://github.com/bintangfebru" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="43" />
+</a>
+
+</p>
 
 <!--
 **Bintangfebru/bintangfebru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
