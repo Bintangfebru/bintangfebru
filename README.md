@@ -54,7 +54,7 @@ Click the Icon
 </a>
 
 <!-- LinkedIn -->
-<a href="https://linkedin.com/in/bintang febru" target="_blank">
+<a href="https://linkedin.com/in/bintangfebru" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="43" />
 </a>
 
