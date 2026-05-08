@@ -20,7 +20,7 @@ Data Analysis & Visualization
 ![image](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 
 ##  Featured Projects
-   1. Waste Classification using CNN
+   #### 1. Waste Classification using CNN
 
 AI-based image classification project designed to identify waste categories such as organic, inorganic, and toxic waste using Convolutional Neural Networks.
 
@@ -33,7 +33,7 @@ Highlights :
 - Successfully deployed the application using Flask
 - Designed a user-friendly interface for real-time predictio
 
-Click to see the project : ...
+Click to see the project : https://github.com/Bintangfebru/Waste-Classification-project
 
 
 ## Career Objective
