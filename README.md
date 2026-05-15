@@ -20,20 +20,24 @@ Data Analysis & Visualization
 ![image](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 
 ##  Featured Projects
-   1. Waste Classification using CNN
+  ## 1. Waste Classification using CNN
 
 AI-based image classification project designed to identify waste categories such as organic, inorganic, and toxic waste using Convolutional Neural Networks.
 
 Highlights :
-- Achieved high classification accuracy
 - Built the project from initial research and dataset preprocessing to deployment
 - Developed and trained CNN models for multiclass image classification
-- Implemented image preprocessing and augmentation pipeline
-- Evaluated model performance using precision, recall, and F1-score
 - Successfully deployed the application using Flask
 - Designed a user-friendly interface for real-time predictio
 
-Click to see the project : ...
+Click to see the project : https://github.com/Bintangfebru/Waste-Classification-project
+
+## 2. End-to-End Loan Approval Prediction Pipeline
+
+The End-to-End Loan Approval Prediction Pipeline is a machine learning system that predicts loan eligibility using historical customer data. It automates the full workflow from data processing to deployment to improve efficiency, reduce bias, and support faster, more accurate lending decisions.
+
+Click to see the project : https://github.com/Bintangfebru/End-to-End-Loan-Approval-Prediction-Pipeline
+
 
 
 ## Career Objective
