@@ -32,6 +32,7 @@ Highlights :
 
 Click to see the project : https://github.com/Bintangfebru/Waste-Classification-project
 
+
 ## 2. End-to-End Loan Approval Prediction Pipeline
 
 The End-to-End Loan Approval Prediction Pipeline is a machine learning system that predicts loan eligibility using historical customer data. It automates the full workflow from data processing to deployment to improve efficiency, reduce bias, and support faster, more accurate lending decisions.
