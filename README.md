@@ -39,7 +39,11 @@ The End-to-End Loan Approval Prediction Pipeline is a machine learning system th
 
 Click to see the project : https://github.com/Bintangfebru/End-to-End-Loan-Approval-Prediction-Pipeline
 
+## 3. Churn & Customer Predict Analysis Web Base
 
+This project develops a customer churn prediction dashboard that combines exploratory data analysis and machine learning to identify customers likely to discontinue their subscription. The system processes CSV customer data and presents interactive visualizations such as churn trends, risk segmentation, and high-risk customer lists. With a responsive and user-friendly interface, the dashboard helps business teams monitor customer behavior, detect churn patterns, and create data-driven retention strategies.
+
+Click to see the project : https://github.com/Bintangfebru/Churn-Customer-Predict-Analyst-Web-Based
 
 ## Career Objective
 Seeking opportunities to contribute to impactful projects in Artificial Intelligence, Machine Learning, Backend Development, or Data Science while continuously growing technical expertise and professional experience.
